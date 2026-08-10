@@ -3,7 +3,7 @@
 ## Folder Structure
 
 ```
-openai_simple_chatbot/
+openai-simple-chatbot/
 ├── src/                    # Source code
 │   ├── __init__.py
 │   ├── app.py             # Main Gradio application

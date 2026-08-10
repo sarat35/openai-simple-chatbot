@@ -19,7 +19,7 @@ This project is a Gradio-based chatbot that uses OpenAI's API to create an AI re
 
 ```bash
 git clone <repository-url>
-cd openai_simple_chatbot
+cd openai-simple-chatbot
 ```
 
 ### 2. Install Dependencies
@@ -91,7 +91,7 @@ The application will start at `http://localhost:7860`
 ## Project Structure
 
 ```
-openai_simple_chatbot/
+openai-simple-chatbot/
 ├── src/                       # Source code (Python package)
 │   ├── __init__.py
 │   ├── app.py                # Main Gradio application
